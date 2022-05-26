@@ -16,7 +16,7 @@ const secondUser = {
   gender: "Male",
   age: "23",
   email: "wendy@dingdong.com",
-  favoriteColor: new Set(["Blue, Black, Grey"]),
+  favoriteColor: new Set(["Blue", "Black", "Grey"]),
   isHavePet: "no",
   education: ["name: SD 02, city: Jakarta, graduate: 2010","name: SMP 03, city: Bogor, graduate: 2013","name: SMA 01, city: Surabaya, graduate: 2016","name: Universitas Maju, city: Tangerang"],
   favoriteRestaurant: new Set(["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Pancake", "Eggy"]),
