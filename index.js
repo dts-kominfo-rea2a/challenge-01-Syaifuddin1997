@@ -25,8 +25,8 @@ const secondUser = {
 // TODO: Masukkan hasil akhir dari kedua user di sini
 const users = [];
 
-users.push(firstUser)
-users.push(secondUser)
+console.log(firstUser)
+console.log(secondUser)
 
 // ! JANGAN MODIFIKASI LINE DI BAWAH
 function main() {
